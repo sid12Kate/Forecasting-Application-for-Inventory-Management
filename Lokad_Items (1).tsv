@@ -1,0 +1,124 @@
+Id	Name	Category	SubCategory	Brand	ColorCode	Supplier	BuyPrice	SellPrice	SellCurrency	SupplierLeadTime	StockOnHand	StockOnOrder
+10206	Flash Charger	Accessories	Charger	Flash	#514100	Computer & Co	11.1300001	17.3999996	USD	7	20	49
+10245	Microgas Charger	Accessories	Charger	Microgas	#301934	Computer & Co	10.0299997	16.2299995	USD	7	77	42
+103237	Pentroise Charger	Accessories	Charger	Pentroise	#3D0C02	Computer & Co	10.8699999	17.1200008	USD	7	247	281
+103627	Brix Charger	Accessories	Charger	Brix	#001440	Computer & Co	11.1300001	17.2700005	USD	7	32	34
+103723	Click Charger	Accessories	Charger	Click	#1B1B1B	Computer & Co	10.9200001	16.9099998	USD	7	53	16
+112029	Flash Tablet	Hardware	Tablet	Flash	#490206	Digital Age	39.2000008	153.509995	USD	3	0	0
+112645	Crodentia Tablet	Hardware	Tablet	Crodentia	#301934	Digital Age	41.1599998	148.669998	USD	3	0	0
+113637	Brix Tablet	Hardware	Tablet	Brix	#3D0C02	Digital Age	37.2400017	134.509995	USD	3	0	-1
+114123	Touche Tablet	Hardware	Tablet	Touche	#1B1B1B	Digital Age	37.6300011	149.339996	USD	3	0	0
+114711	Powerpull Tablet	Hardware	Tablet	Powerpull	#004B49	Digital Age	42.5299988	136.580002	USD	3	0	0
+12029	Flash Projector	Hardware	Projector	Flash	#490206	Digital Age	52.6800003	136.119995	USD	3	0	0
+12205	Flash Desktop	Hardware	Desktop	Flash	#000000	Enterprise Solutions	89.5100021	247.520004	USD	9	0	0
+12261	Crodentia Desktop	Hardware	Desktop	Crodentia	#141414	Enterprise Solutions	98.3700027	254.660004	USD	9	0	0
+123242	Pentroise Desktop	Hardware	Desktop	Pentroise	#1B1811	Digital Age	69.2300034	196.070007	USD	3	9	0
+123626	Brix Desktop	Hardware	Desktop	Brix	#013220	Enterprise Solutions	94.1699982	233.240005	USD	9	0	0
+123723	Click Desktop	Hardware	Desktop	Click	#1B1B1B	Digital Age	70.1999969	204.75	USD	3	24	0
+124141	Touche Desktop	Hardware	Desktop	Touche	#391802	Enterprise Solutions	90.9100037	243.949997	USD	9	0	0
+124437	Hyperguru Desktop	Hardware	Desktop	Hyperguru	#3D0C02	Digital Age	65.0400009	210	USD	3	8	0
+124746	Powerpull Desktop	Hardware	Desktop	Powerpull	#3F000F	Enterprise Solutions	96.9700012	232.050003	USD	9	0	0
+12645	Crodentia Projector	Hardware	Projector	Crodentia	#301934	Digital Age	49.9799995	137.520004	USD	3	0	0
+131645	Lumwitz Headset	Accessories	Headset	Lumwitz	#301934	Office Supplies	7.53000021	13.3500004	USD	7	0	77
+131848	Peekite Headset	Accessories	Headset	Peekite	#17182B	Office Supplies	7.42999983	14.25	USD	7	35	32
+132127	Tiran Headset	Accessories	Headset	Tiran	#001440	Office Supplies	7.25	12.7399998	USD	7	72	102
+132218	Buzcos Headset	Accessories	Headset	Buzcos	#00563F	Office Supplies	7	14.1199999	USD	7	109	125
+13264	Crodentia Headset	Accessories	Headset	Crodentia	#004225	Office Supplies	7.13999987	12.7200003	USD	7	283	422
+133437	Minost Headset	Accessories	Headset	Minost	#3D0C02	Office Supplies	7.03999996	13.2200003	USD	7	0	81
+134142	Touche Headset	Accessories	Headset	Touche	#1B1811	Office Supplies	7.46000004	14.3699999	USD	7	0	77
+13623	Thompsons Headset	Accessories	Headset	Thompsons	#1B1B1B	Office Supplies	7.71000004	14.1300001	USD	7	97	146
+13637	Brix Projector	Hardware	Projector	Brix	#3D0C02	Digital Age	50.9599991	137.940002	USD	3	0	0
+14123	Touche Projector	Hardware	Projector	Touche	#1B1B1B	Digital Age	53.9000015	136.720001	USD	3	0	0
+14711	Powerpull Projector	Hardware	Projector	Powerpull	#004B49	Digital Age	50.2299995	132.419998	USD	3	0	0
+16132	DeW Stand	Accessories	Stand	DeW	#3D2B1F	Digital Age	2.07999992	5.42999983	USD	3	14	38
+162050	Flash Stand	Accessories	Stand	Flash	#3C3024	Digital Age	2.24000001	5.0999999	USD	3	17	50
+16244	Microgas Stand	Accessories	Stand	Microgas	#253529	Digital Age	2.18000007	5.69999981	USD	3	48	184
+163236	Pentroise Stand	Accessories	Stand	Pentroise	#002E63	Digital Age	2.05999994	5.51000023	USD	3	35	24
+163722	Click Stand	Accessories	Stand	Click	#02075D	Digital Age	2.31999993	5.59000015	USD	3	17	7
+17245	Microgas Case	Accessories	Case	Microgas	#301934	Digital Age	2.91000009	8.43000031	USD	3	48	144
+173237	Pentroise Case	Accessories	Case	Pentroise	#3D0C02	Digital Age	2.94000006	9.60000038	USD	3	33	133
+173723	Click Case	Accessories	Case	Click	#1B1B1B	Digital Age	2.82999992	8.60000038	USD	3	26	100
+181017	Delany Cover	Accessories	Cover	Delany	#660000	Computer & Co	5.96000004	9.46000004	USD	7	0	13
+181723	Marinos Cover	Accessories	Cover	Marinos	#1B1B1B	Computer & Co	6.55000019	10.3699999	USD	7	36	29
+182018	Flash Cover	Accessories	Cover	Flash	#00563F	Computer & Co	6.61999989	9.56999969	USD	7	36	25
+182337	Leehe Cover	Accessories	Cover	Leehe	#3D0C02	Computer & Co	6.21000004	10.8699999	USD	7	91	122
+182934	Eger Cover	Accessories	Cover	Eger	#3C1421	Computer & Co	6.07999992	10.0299997	USD	7	14	19
+18345	Fosters Cover	Accessories	Cover	Fosters	#301934	Computer & Co	6.21000004	10.3699999	USD	7	47	19
+18453	Guilli Cover	Accessories	Cover	Guilli	#1B4D3E	Computer & Co	6.86999989	10.5799999	USD	7	0	66
+184627	Delaye Cover	Accessories	Cover	Delaye	#001440	Computer & Co	6.84000015	9.97999954	USD	7	36	67
+192037	Flash Accounting	Software	Accounting	Flash	#3D0C02	Digital Age	59.6699982	125.839996	USD	3	31	41
+19264	Crodentia Accounting	Software	Accounting	Crodentia	#004225	Digital Age	61.0800018	128.160004	USD	3	22	45
+193723	Click Accounting	Software	Accounting	Click	#1B1B1B	Digital Age	58.5400009	126.449997	USD	3	29	50
+193834	Hoerpod Accounting	Software	Accounting	Hoerpod	#3C1421	Digital Age	57.6899986	131.449997	USD	3	16	41
+194816	Chandy Accounting	Software	Accounting	Chandy	#3C1414	Digital Age	53.4500008	93.5400009	USD	3	0	0
+194853	Chandy Accounting	Software	Accounting	Chandy	#064E40	Digital Age	37.4199982	72.2099991	USD	3	0	0
+201237	Cardee Gaming	Software	Gaming	Cardee	#3D0C02	Digital Age	31.2800007	64.2799988	USD	3	79	150
+20166	Lumwitz Gaming	Software	Gaming	Lumwitz	#514100	Digital Age	27.6900005	67.75	USD	3	7	0
+201848	Peekite Gaming	Software	Gaming	Peekite	#17182B	Digital Age	29.5599995	61.1500015	USD	3	20	25
+20345	Fosters Gaming	Software	Gaming	Fosters	#301934	Digital Age	28.1299992	66.4199982	USD	3	45	52
+204812	Chandy Gaming	Software	Gaming	Chandy	#560319	Digital Age	15.1599998	27.1700001	USD	3	1	0
+21245	Microgas Editing	Software	Editing	Microgas	#301934	Office Supplies	26.8299999	61.2900009	USD	7	7	0
+213242	Pentroise Editing	Software	Editing	Pentroise	#1B1811	Office Supplies	27.2399998	71.6500015	USD	7	21	10
+213718	Click Editing	Software	Editing	Click	#00563F	Office Supplies	25.6299992	68	USD	7	21	10
+214437	Hyperguru Editing	Software	Editing	Hyperguru	#3D0C02	Office Supplies	25.4899998	71.2399979	USD	7	26	23
+2354	Telefun Office Software	Software	Office Software	Telefun	#004225	Techno First	40.8199997	63.7400017	USD	5	47	43
+24234	Leifer Office Software	Software	Office Software	Leifer	#3C1421	Techno First	41.0099983	71.8000031	USD	5	7	0
+31151	Rendez Connector	Accessories	Connector	Rendez	#330066	Digital Age	6.30999994	16.8400002	USD	3	124	529
+3134	DeW Connector	Accessories	Connector	DeW	#004225	Digital Age	6.92000008	18.0499992	USD	3	7	9
+3245	Microgas Connector	Accessories	Connector	Microgas	#301934	Digital Age	6.38000011	16.3400002	USD	3	461	751
+32727	Torvic Connector	Accessories	Connector	Torvic	#001440	Digital Age	7.01999998	17.2099991	USD	3	0	0
+33023	Mgnito Connector	Accessories	Connector	Mgnito	#1B1B1B	Digital Age	6.88999987	16.3500004	USD	3	383	1007
+3318	Fosters Connector	Accessories	Connector	Fosters	#00563F	Digital Age	6.92000008	17.5799999	USD	3	20	48
+33725	Click Connector	Accessories	Connector	Click	#046307	Digital Age	8.14000034	17.0699997	USD	3	16	0
+33737	Click Connector	Accessories	Connector	Click	#3D0C02	Digital Age	6.17999983	17.5900002	USD	3	2005	1400
+34234	Leifer Connector	Accessories	Connector	Leifer	#3C1421	Digital Age	6.92000008	17.2099991	USD	3	0	978
+34748	Powerpull Connector	Accessories	Connector	Powerpull	#17182B	Digital Age	6.63999987	17.0499992	USD	3	267	723
+36485	IWO Charger	Accessories	Charger	IWO	#1B1B1B	Computer & Co	15.7799997	21.2000008	USD	7	0	0
+41437	Pluggi Adapter	Accessories	Adapter	Pluggi	#3D0C02	Computer & Co	7.46999979	12.3100004	USD	7	56	85
+4244	Delliti Adapter	Accessories	Adapter	Delliti	#004225	Computer & Co	8	13.7799997	USD	7	55	144
+43018	Mgnito Adapter	Accessories	Adapter	Mgnito	#00563F	Computer & Co	8	13.7399998	USD	7	52	111
+4345	Fosters Adapter	Accessories	Adapter	Fosters	#301934	Computer & Co	7.96999979	13.8299999	USD	7	0	69
+43723	Click Adapter	Accessories	Adapter	Click	#1B1B1B	Computer & Co	7.5	12.6700001	USD	7	0	56
+44339	Haywoods Adapter	Accessories	Adapter	Haywoods	#4E1609	Computer & Co	8.11999989	13.0799999	USD	7	111	132
+4527	Morevel Adapter	Accessories	Adapter	Morevel	#001440	Computer & Co	8.11999989	13.6400003	USD	7	27	41
+5134	DeW Educational	Software	Educational	DeW	#004225	Digital Age	12.21	71.8700027	USD	3	31	20
+51411	Pluggi Educational	Software	Educational	Pluggi	#004B49	Digital Age	12.2600002	67.8700027	USD	3	44	20
+51518	Collette Educational	Software	Educational	Collette	#00563F	Digital Age	10.6400003	69.5	USD	3	7	10
+5245	Microgas Educational	Software	Educational	Microgas	#301934	Digital Age	12.1499996	64.3700027	USD	3	91	25
+53242	Pentroise Educational	Software	Educational	Pentroise	#1B1811	Digital Age	10.6400003	65.6500015	USD	3	21	4
+53723	Click Educational	Software	Educational	Click	#1B1B1B	Digital Age	11.1400003	63.0800018	USD	3	58	60
+54234	Leifer Educational	Software	Educational	Leifer	#3C1421	Digital Age	11.3699999	73.6500015	USD	3	37	10
+54437	Hyperguru Educational	Software	Educational	Hyperguru	#3D0C02	Digital Age	10.75	63.2200012	USD	3	17	10
+61151	Rendez Keyboard	Hardware	Keyboard	Rendez	#330066	Digital Age	65.4499969	179.050003	USD	3	298	405
+6134	DeW Keyboard	Hardware	Keyboard	DeW	#004225	Digital Age	56.6500015	175.970001	USD	3	306	1514
+61518	Collette Keyboard	Hardware	Keyboard	Collette	#00563F	Digital Age	61.5900002	169.899994	USD	3	111	204
+61945	Dupo Keyboard	Hardware	Keyboard	Dupo	#301934	Digital Age	66.2200012	192.240005	USD	3	420	1059
+6206	Flash Keyboard	Hardware	Keyboard	Flash	#514100	Digital Age	61.5200005	185.839996	USD	3	128	76
+62337	Leehe Keyboard	Hardware	Keyboard	Leehe	#3D0C02	Digital Age	50.6500015	185.169998	USD	3	111	110
+62827	Litscha Keyboard	Hardware	Keyboard	Litscha	#001440	Digital Age	63.5099983	220.580002	USD	3	105	103
+63237	Pentroise Keyboard	Hardware	Keyboard	Pentroise	#3D0C02	Digital Age	54.9399986	188.139999	USD	3	457	886
+63348	Swansee Keyboard	Hardware	Keyboard	Swansee	#17182B	Digital Age	56.1800003	176.199997	USD	3	167	208
+63834	Hoerpod Keyboard	Hardware	Keyboard	Hoerpod	#3C1421	Digital Age	52.9599991	206.020004	USD	3	469	1219
+63942	Ruben Keyboard	Hardware	Keyboard	Ruben	#1B1811	Digital Age	52.2799988	197.910004	USD	3	65	90
+6423	Frunelli Keyboard	Hardware	Keyboard	Frunelli	#1B1B1B	Digital Age	52.5400009	160.690002	USD	3	99	175
+6612	ASL Connector	Accessories	Connector	ASL	#004225	Digital Age	6.92000008	18.0499992	USD	3	0	0
+6945	Troiled Keyboard	Hardware	Keyboard	Troiled	#301934	Digital Age	55.7200012	199.990005	USD	3	208	226
+71237	Cardee Speaker	Hardware	Speaker	Cardee	#3D0C02	Computer & Co	126.730003	251.630005	USD	7	298	760
+71437	Pluggi Speaker	Hardware	Speaker	Pluggi	#3D0C02	Computer & Co	117.589996	242.740005	USD	7	484	751
+7147	Langla Speaker	Hardware	Speaker	Langla	#333333	Computer & Co	118.120003	216.800003	USD	7	188	338
+72042	Flash Speaker	Hardware	Speaker	Flash	#1B1811	Techno First	118.489998	214.039993	USD	5	27	4
+7244	Delliti Speaker	Hardware	Speaker	Delliti	#004225	Techno First	114.230003	244.300003	USD	5	25	43
+73018	Mgnito Speaker	Hardware	Speaker	Mgnito	#00563F	Computer & Co	124.510002	217.149994	USD	7	101	79
+73148	Elhabsi Speaker	Hardware	Speaker	Elhabsi	#17182B	Computer & Co	104.330002	222.580002	USD	7	32	22
+73627	Brix Speaker	Hardware	Speaker	Brix	#001440	Computer & Co	105.370003	244.929993	USD	7	241	841
+73723	Click Speaker	Hardware	Speaker	Click	#1B1B1B	Computer & Co	106.790001	240.320007	USD	7	257	661
+73745	Click Speaker	Hardware	Speaker	Click	#301934	Computer & Co	111.389999	199.479996	USD	7	56	32
+74034	Sasvar Speaker	Hardware	Speaker	Sasvar	#3C1421	Computer & Co	98.0599976	204.210007	USD	7	206	442
+74142	Touche Speaker	Hardware	Speaker	Touche	#1B1811	Computer & Co	126.120003	210.279999	USD	7	259	429
+7479	Powerpull Speaker	Hardware	Speaker	Powerpull	#006400	Computer & Co	125.339996	256.640015	USD	7	26	34
+7749	Lovpa Speaker	Hardware	Speaker	Lovpa	#003366	Techno First	119.480003	237.940002	USD	5	35	60
+786	Banitan Speaker	Hardware	Speaker	Banitan	#514100	Computer & Co	102.360001	251.360001	USD	7	0	0
+CliK1	Clik Kit Mini	Accessories	Kit	Clik			25.9200001	35	USD	7	0	0
+CliK2	Clik Kit	Accessories	Kit	Clik			42.2000008	70	USD	7	0	0
+FosK1	Fosters Kit	Accessories	Kit	Fosters			35.9900017	65	USD	7	0	0
+PenK1	Pentroise Kit	Accessories	Kit	Pentroise			124.169998	350	USD	3	0	0
